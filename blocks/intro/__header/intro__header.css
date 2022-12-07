@@ -1,0 +1,14 @@
+.intro__header {
+  color: white;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 1.07;
+  margin: 0 0 40px 0;
+}
+
+@media (max-width: 320px) {
+  .intro__header {
+    font-size: 32px;
+  }
+}

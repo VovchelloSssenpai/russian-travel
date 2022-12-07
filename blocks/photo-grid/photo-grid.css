@@ -1,0 +1,29 @@
+.photo-grid {
+  margin: 0 auto;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding-bottom: 92px;
+  max-width: 1184px;
+}
+
+@media (max-width: 1024px) {
+  .photo-grid {
+    margin: 0 48px;
+  }
+}
+
+@media (max-width: 768px) {
+  .photo-grid {
+    margin: 0 24px;
+    padding-bottom: 88px;
+  }
+}
+
+@media (max-width: 320px) {
+  .photo-grid {
+    margin: 0 16px;
+    gap: 12px;
+    padding-bottom: 64px;
+  }
+}

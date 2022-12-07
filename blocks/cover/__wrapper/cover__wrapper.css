@@ -1,0 +1,27 @@
+.cover__wrapper {
+  z-index: 1;
+}
+
+@media (min-width: 320px) {
+  .cover__wrapper {
+    padding: 33px 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .cover__wrapper {
+    padding: 115px 104px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cover__wrapper {
+    padding: 195px 232px;
+  }
+}
+
+@media (min-width: 1180px) {
+  .cover__wrapper {
+    padding: 245px 312px;
+  }
+}

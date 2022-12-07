@@ -1,0 +1,23 @@
+.place__paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.61;
+  color: white;
+  margin: 0;
+}
+
+.place__paragraph:nth-of-type(1) {
+  margin-bottom: 26px;
+}
+
+@media (max-width: 810px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__paragraph {
+    margin-left: 16px;
+  }
+} ;
