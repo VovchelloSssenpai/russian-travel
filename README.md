@@ -7,3 +7,5 @@
 - CSS, HTML
 - Адаптивность
 - БЭМ
+
+Ссылка на gh page: https://vovchellosssenpai.github.io/russian-travel/
