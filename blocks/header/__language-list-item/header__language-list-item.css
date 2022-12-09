@@ -4,7 +4,5 @@
 }
 
 .header__language-list-item:first-child {
-  /* text-decoration: underline; */
   margin-right: 18px;
-  border-bottom: 2px solid white;
 }

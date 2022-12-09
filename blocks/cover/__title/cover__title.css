@@ -6,6 +6,14 @@
   color: white;
   width: 560px;
   text-align: center;
+  padding: 245px 312px 0 245px;
+  z-index: 1;
+}
+
+@media (min-width: 320px) {
+  .cover__title {
+    padding: 33px 16px 0 16px;
+  }
 }
 
 @media (max-width: 620px) {
@@ -13,5 +21,24 @@
     font-size: 32px;
     width: 288px;
     line-height: 0.9;
+    margin: 0 auto 16px auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .cover__title {
+    padding: 115px 104px 0 104px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cover__title {
+    padding: 195px 232px 0 232px;
+  }
+}
+
+@media (min-width: 1180px) {
+  .cover__title {
+    padding: 245px 312px 0 312px;
   }
 }

@@ -9,13 +9,21 @@
   }
 }
 
+@media (max-width: 740px) {
+  .places {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 @media (max-width: 797px) {
   .places {
     margin: 0 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 440px) {
   .places {
     /* margin: 0 16px; */
     margin: 0;

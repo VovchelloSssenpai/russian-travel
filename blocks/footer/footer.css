@@ -1,19 +1,9 @@
 .footer {
-  /* max-width: 1184px; */
-  /* display: grid;
-  grid-template-columns: repeat(2, auto); */
   display: flex;
   margin: 0 auto;
   justify-content: space-between;
   align-items: center;
-  padding: 82px 48px 0 48px;
-  /* padding-bottom: 24px; */
-}
-
-@media (max-width: 1024px) {
-  /* .footer {
-    max-width: 928px;
-  } */
+  padding: 92px 48px 24px 48px;
 }
 
 @media (max-width: 768px) {
@@ -26,7 +16,6 @@
 @media (max-width: 500px) {
   .footer {
     flex-direction: column;
-    max-width: 186px;
     padding: 64px 0 24px 0;
     margin: 0 0 0 16px;
     gap: 48px;

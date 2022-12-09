@@ -6,6 +6,14 @@
   width: 360px;
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 245px;
+  z-index: 1;
+}
+
+@media (min-width: 320px) {
+  .cover__subtitle {
+    padding-bottom: 33px;
+  }
 }
 
 @media (max-width: 620px) {
@@ -13,5 +21,23 @@
     width: 288px;
     font-size: 14px;
     line-height: 1.14;
+  }
+}
+
+@media (min-width: 768px) {
+  .cover__subtitle {
+    padding-bottom: 115px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cover__subtitle {
+    padding-bottom: 195px;
+  }
+}
+
+@media (min-width: 1180px) {
+  .cover__subtitle {
+    padding-bottom: 245px;
   }
 }
