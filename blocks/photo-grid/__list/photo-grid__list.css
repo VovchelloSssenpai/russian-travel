@@ -10,3 +10,9 @@
   gap: 16px 16px;
   max-width: 100%;
 }
+
+@media (max-width: 450px) {
+  .photo-grid__list {
+    gap: 12px;
+  }
+}

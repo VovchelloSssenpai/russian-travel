@@ -20,7 +20,7 @@
 
 @media (max-width: 440px) {
   .intro {
-    margin: 0 0 0 12px;
+    margin: 0 0 0 16px;
     max-width: 288px;
     padding-bottom: 64px;
   }

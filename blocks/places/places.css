@@ -9,7 +9,7 @@
   }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 761px) {
   .places {
     display: flex;
     flex-direction: column;

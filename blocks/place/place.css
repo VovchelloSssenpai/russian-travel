@@ -27,12 +27,7 @@
   }
 }
 
-@media (max-width: 764px) {
-  .place {
-  }
-}
-
-@media (max-width: 740px) {
+@media (max-width: 761px) {
   .place {
     grid-template-columns: 320px;
     gap: 28px 0;
@@ -43,6 +38,7 @@
 @media (max-width: 620px) {
   .place {
     padding-bottom: 50px;
+    gap: 32px;
   }
   .place:last-of-type {
     padding-bottom: 66px;
