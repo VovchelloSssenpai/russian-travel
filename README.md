@@ -1,11 +1,11 @@
-# Проект: Путешествие по России
+# Project: Travel across the Russia
 
-### Обзор
+### Review
 
-Вторая проектная работа свёрстанная с использованием:
+Second project built using:
 
 - CSS, HTML
-- Адаптивность
-- БЭМ
+- Adaptability
+- BEM methodology
 
-Ссылка на gh page: https://vovchellosssenpai.github.io/russian-travel/
+Link to gh page: https://vovchellosssenpai.github.io/russian-travel/
